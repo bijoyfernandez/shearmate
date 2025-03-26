@@ -65,9 +65,9 @@ The app provides **two processing modes**:
 
 ---
 
-## How to replicate the app
+## How to run the app
 * Users can download the exe file from [here](https://github.com/bijoyfernandez/shearmate/releases/download/v0.1/ShearMate.exe) and run it directly.
-* The second option is to download the UCS_model.pkl and config.json along with the main.p and use py_to)exe library to packaage the app to a runnable exe.
+* The second option is to download the UCS_model.pkl and config.json along with the main.pu and use py_to_exe library to packaage the app to a runnable exe.
 
 ---
 
