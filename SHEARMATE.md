@@ -4,7 +4,7 @@
 
 ### **1. Data Collection & Processing**
 - Soil samples were collected from **four different locations**, with **30 samples per location**, totaling **120 soil samples**.
-- Each sample was **physically tested in a lab** to obtain its **input properties**:
+- Each sample was **physically tested in a lab** to obtain its **input and output properties**:
   - **Liquid Limit (LL)**
   - **Plastic Limit (PL)**
   - **Specific Gravity (SG)**
