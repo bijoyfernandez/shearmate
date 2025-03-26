@@ -65,5 +65,11 @@ The app provides **two processing modes**:
 
 ---
 
+## How to replicate the app
+* User can download the exe file from link and run it direclty.  
+* The second option is to download the UCS_model.pkl and config.json along with the main.p and use py_to)exe library to packaage the app to a runnable exe.
+
+---
+
 ## License
 SHEARMATE is provided as-is with no guarantees of accuracy beyond its trained dataset. Future improvements will enhance its usability and accuracy.
